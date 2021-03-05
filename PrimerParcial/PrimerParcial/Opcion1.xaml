@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimerParcial.Opcion1">
+    <ContentPage.Content>
+
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Comenzemos!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+
+            </Frame>
+
+            <Label Text=":3" HorizontalTextAlignment="Center" TextColor="BlanchedAlmond" FontSize="200"/>
+
+            <StackLayout VerticalOptions="CenterAndExpand" Margin="20,35,20,20">
+                <Label Text ="Sigue los pasos" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="18"/>
+                <Label Text="Primero, escribe tu dia de nacimiento en una hoja" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Segundo, Multipica x20 tu dia de nacimiento" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Tercero, al resultado le sumas 73" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Cuarto, al resultado de la suma, lo multiplicas x5" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Ultimo paso, suma el número del mes en que naciste" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Entry x:Name="ingresado" Placeholder="Ingresa tu resultado final aqui" HorizontalTextAlignment="Center" TextColor="Orange" Keyboard="Chat"
+               MaxLength="4"
+               />
+                <Button Text="Precioname" x:Name="Unir"
+                TextColor="White"
+                BackgroundColor="Orange"
+                BorderWidth="3"
+                CornerRadius="20"
+                WidthRequest="50"
+                HeightRequest="50"
+                Clicked="Button_Clicked"/>
+                <Label Text="Veras que si pude adivinar tu día y mes en que naciste.." HorizontalTextAlignment="Center" FontSize="20"/>
+                <Label Text="Día" HorizontalTextAlignment="Center" FontSize="16"/>
+                <Label Text="........" HorizontalTextAlignment="Center" FontSize="Large" x:Name="rest"
+               />
+                <Label Text="Mes" HorizontalTextAlignment="Center" FontSize="16"/>
+                <Label Text="........" HorizontalTextAlignment="Center" FontSize="Large" x:Name="res1" />
+
+        </StackLayout>
+        </StackLayout>
+
+    </ContentPage.Content>        
+</ContentPage>
+
+
+
+
+    

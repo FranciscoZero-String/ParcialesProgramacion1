@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimerParcial.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Hola bienvenido" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+
+        </Frame>
+
+        <Label Text="JUGUEMOS :3 " HorizontalTextAlignment="Center" TextColor="Black" FontSize="46"/>
+
+        <StackLayout VerticalOptions="CenterAndExpand" Margin="10,25,10,10">
+            <Label Text="El juego del adivino" HorizontalTextAlignment="Center"
+            FontSize="25"   />
+            
+            <Button x:Name="Opcion1" Text="Te apuesto a que puedo adivinar tu dia y mes en que naciste" Clicked="Opcion1_Clicked"
+               TextColor="Black"
+                Background="Azure"
+                BorderWidth="3"
+                CornerRadius="20"
+                WidthRequest="50"
+                HeightRequest="50"></Button>
+            
+            <Button x:Name="Opcion2" Text="Apuesto a que puedo adivinar el numero que estas pensando" Clicked="Opcion2_Clicked"
+                TextColor="White"
+                Background="Orange"            
+                BorderWidth="3"
+                CornerRadius="20"
+                WidthRequest="50"
+                HeightRequest="50"></Button>
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

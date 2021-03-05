@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimerParcial.opcion2">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Comenzemos!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+
+            </Frame>
+
+            <Label Text=":3" HorizontalTextAlignment="Center" TextColor="Aqua" FontSize="200"/>
+
+            <StackLayout
+            VerticalOptions="CenterAndExpand" Margin="20,35,20,20">
+                <Label Text ="Sigue los pasos" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="18"/>
+                <Label Text="Primero Piensa en un número cualquiera, después lo anotas en una hoja para que no se te olvide" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Segundo El numero en que pensaste multiplicalo x2" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Tercero, el resultado de la multiplicacion sumale 8" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Cuarto, y el resultado de la suma multiplicalo x5" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Entry x:Name="ingresado1" Placeholder="Escribe tu resultado final aqui" HorizontalTextAlignment="Center" TextColor="Orange" Keyboard="Chat"
+               />
+                <Button Text="Precioname" x:Name="Unir1"
+                TextColor="Black"
+                BackgroundColor="Aqua"
+                BorderWidth="3"
+                CornerRadius="20"
+                WidthRequest="50"
+                HeightRequest="50"
+                Clicked="Unir_Clicked_1"/>
+                <Label Text="Veras que si pude adivinar el número que pensante" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="Tú número fue: " x:Name="mes1" HorizontalTextAlignment="Center" TextColor="Orange" FontSize="16"/>
+                <Label Text="........" FontSize="Large" HorizontalTextAlignment="Center" TextColor="Orange" x:Name="Respuesta"
+               />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

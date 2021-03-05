@@ -1,0 +1,16 @@
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\netstandard2.0\PrimerParcial.deps.json
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\netstandard2.0\PrimerParcial.dll
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\netstandard2.0\ref\PrimerParcial.dll
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\bin\Debug\netstandard2.0\PrimerParcial.pdb
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\PrimerParcial.csprojAssemblyReference.cache
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\PrimerParcial.AssemblyInfoInputs.cache
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\PrimerParcial.AssemblyInfo.cs
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\PrimerParcial.dll
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\ref\PrimerParcial.dll
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\PrimerParcial.pdb
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\Opcion1.xaml.g.cs
+C:\Users\frnac\source\repos\PrimerParcial\PrimerParcial\PrimerParcial\obj\Debug\netstandard2.0\opcion2.xaml.g.cs
