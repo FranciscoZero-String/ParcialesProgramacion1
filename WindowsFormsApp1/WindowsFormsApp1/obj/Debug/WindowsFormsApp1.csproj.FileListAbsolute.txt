@@ -1,0 +1,40 @@
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Arana\Desktop\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa\Walver\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 7\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Zero\Escritorio\UMG\Programacion 1\Clase 8\Programa Arreglos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
